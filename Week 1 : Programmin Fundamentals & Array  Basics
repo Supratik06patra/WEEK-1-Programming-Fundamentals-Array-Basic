@@ -1,0 +1,9 @@
+arr = [4, 1, 9, 2, 9]
+min = max = arr[0]
+for num in arr :
+  if num < min:
+    min = num
+  if num > max:
+    max = num
+print("min:", min)
+print("max:", max)
