@@ -1,3 +1,5 @@
+Given An Integer Array, Find The Maximum And Minimum Values Present In It.
+
 arr = [4, 1, 9, 2, 9]
 min = max = arr[0]
 for num in arr :
