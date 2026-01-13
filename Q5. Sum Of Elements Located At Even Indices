@@ -1,0 +1,15 @@
+** Find The Sum Of Element Located At Even Indices ( 0 - based indexing )
+Input: 20 30 40 50 
+
+def sum(arr):
+  total = 0
+  for i in range(len(arr)):
+    if i % 2 == 0:
+
+      total += arr[i]
+  return total
+
+array = [20, 30, 40, 50]
+result = sum(array)
+
+print("Sum Of Elements At Even Indices:", result)
