@@ -1,3 +1,5 @@
+** Count How Many Numbers In The Array Are Even And How Many Are Odd.
+
 numbers = [1, 2, 3, 4, 5, 6]
 even = 0
 odd = 0
