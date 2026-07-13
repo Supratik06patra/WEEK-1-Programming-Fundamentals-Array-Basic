@@ -8,5 +8,5 @@ for num in arr :
     min = num
   if num > max:
     max = num
-print("min:", min)
+print("min:", min) 
 print("max:", max)
